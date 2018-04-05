@@ -1,6 +1,6 @@
 {
     "name": "oscp-nodejs6-test",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "test",
     "main": "server/index.js",
     "repository": "https://github.com/wozniakjan/s2i-nodejs-sample",
